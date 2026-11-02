@@ -1,0 +1,6 @@
+{
+  "name": "Starball TV",
+  "description": "Live sports and football streaming, match schedules, and sports channels on Starball TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

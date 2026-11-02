@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Starball TV</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_refresh">Refresh</string>
+    <string name="nav_back">Back</string>
+    <string name="nav_forward">Forward</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_fullscreen">Fullscreen</string>
+    <string name="nav_channels">Quick Links</string>
+    <string name="error_network_title">Unable to Connect</string>
+    <string name="error_network_subtitle">Please check your internet connection or try reloading Starball TV.</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="loading_stream">Loading Starball TV...</string>
+</resources>
